@@ -1,0 +1,67 @@
+While most countries around the world rely on debt to finance their government and economy, keeping this debt under control is a financial imperative. Large government debt negatively impacts long-term economic growth. Increase in a nation's debt results in lower private investment, which leads to diminishing growth and wages in the long term. A high amount of debt can be detrimental even in the absence of a financial crisis.
+
+"There is a huge debate in the economic and political community on the sustainability of public debt," observes Giorgio Ferrari, a professor for mathematical finance at Universität Bielefeld in Germany, and principal investigator in the university's Collaborative Research Centre 1283. "Using different statistical and methodological approaches, many researchers conclude that high government debt has a negative effect on long-term economic growth, makes the economy less resilient to macroeconomic shocks, and poses limits on the adoption of counter-cyclical fiscal policies."
+
+The debt-to-gross domestic product (GDP) ratio is an important indicator of an economy's financial leverage. "During the last financial crisis, the debt-to-GDP ratio—also called debt ratio—exploded in many countries," says Ferrari, who proposes a mathematical model for the control of this ratio in a paper to publish next week in the SIAM Journal on Control and Optimization.
+
+To minimize the total expected cost of owing debt and implementing interventions on the debt ratio, governments choose appropriate debt reduction policies, though these are not always designed for maximum efficiency.
+
+"It is unclear if governments plan their debt reduction policies according to an optimization criterion, such as the maximization of social welfare or the minimization of social costs," Ferrari says. "In this sense, mathematical modeling can provide a theoretical background for such choices, and might give insights on the policies to follow."
+
+Ferrari models the problem as a continuous singular stochastic control problem, and tries to answer the question, "How much is too much?—as in, at what level of debt does it help for the government to pay back without impacting growth? For many developed nations, whose debt-to-GDP ratio is far from risk of default, the cost of raising taxes or reducing spending to decrease debt can outweighs any benefits.
+
+"In my model, governments face two opposing costs," Ferrari explains. "On the one hand, they aim to minimize the total expected opportunity cost due to debt. This may result, for instance, from private investment crowding out public investments, leaving less room for public ventures, and from a tendency to suffer low subsequent growth. On the other hand, by reducing the debt through, say, fiscal policies, the government incurs a cost that is proportional to the amplitude of its action. It is important for governments to properly counterbalance these two costs, and such a problem can be modeled mathematically through a so-called singular stochastic control problem."
+
+While high debt-to-GDP ratios can restrict economic progress by augmenting the debt burden, government intervention strategies also carry penalties proportional to the amount of debt mitigation. Thus the ideal goal is to choose a cumulative debt reduction policy that would limit the total expected cost of shouldering debt and overall cost of interventions.
+
+"A government's need to counterbalance the cost of having debt and reducing it suggests that it should follow a threshold strategy—that is, it should intervene so as to reduce debt-to-GDP ratio only when the latter is sufficiently large," Ferrari points out. "In my model, in its planning, the government also takes into account the current level of inflation in the country, which is not under the government's control, but managed by an autonomous central bank. As a result, the critical level at which the government should act in order to halt the growth of public debt is inflation-dependent, and this optimal threshold is endogenously determined as part of the solution to the problem."
+
+Assuming that the government can reduce the level of debt versus the GDP by certain measures—such as raising taxes or reducing expenses—Ferrari's group interprets the collective interventions on the debt ratio as the government's control variable. Uncertainty in the model is introduced via the inflation of the given country.
+
+"Clearly, in reality, when managing the public debt, the government should also consider macroeconomic variables other than inflation, for instance, interest rates, GDP growth rate, and exchange rates," Ferrari says. "However, in order to have a tractable mathematical problem, I have decided to focus only on the role of inflation in the debt's reduction problem faced by the government."
+
+Ferrari shows that it is optimal for a government to adopt policies that keep the debt-to-GDP ratio under an inflation-dependent ceiling.
+
+In his work he demonstrates that the solution of the control problem is related to that of an auxiliary optimal stopping problem developed in terms of the marginal cost of having debt and the marginal cost of intervention on the debt ratio. In the optimal stopping problem, the government determines the optimal time to reduce the debt ratio level by one additional unit with the goal of minimizing the associated total expected marginal cost. Solving the optimal stopping problem can then effectively solve the control problem.
+
+Future work involves approaches to alleviate debt with limited data and factors beyond the government's control.
+
+"With collaborators, my research group at the Center for Mathematical Economics at Bielefeld University is currently trying to investigate how strategic issues might enter into the picture, how a government can optimally reduce the debt ratio when it only has partial information about the involved macroeconomic quantities, or can optimally increase or decrease the debt level when the interest rate on debt is stochastic and is affected by economic shocks that are not under its control."
+
+Mathematical models designed to represent real-world financial situations can be both mathematically fascinating and remarkably practical.
+
+"I find problems of optimal management of macroeconomic quantities—like public debt, inflation, or exchange rates—very interesting both from an everyday-life and a mathematical perspective," Ferrari says. "They lead to very challenging mathematical problems in which one needs to consider the interaction between several variables, including macroeconomic and financial quantities and multiple agents, such as government, central banks, and financial agents. I believe that there is still a lot to do in the mathematical analysis/modeling of such problems."
+
+To create highly effective technical systems and technological processes, in addition to the use of new principles, new materials, new physical effects and other solutions that determine the overall structure of the object being created, researchers have to choose the best combination of the object's parameters (geometric dimensions, electrical characteristics, etc.), since any changes in the parameters with a fixed overall object structure can significantly impact the effectiveness indicators.
+
+In computer-aided design, the testing of options can be carried out by analyzing its mathematical model for different parameter values. As the models become increasingly complex, the need arises for a targeted choice of options in the search for the optimal (most effective) solution.
+
+A team of scientists from the Lobachevsky State University of Nizhny Novgorod (UNN) lead by Professor Roman Strongin has been studying the targeted choices when searching for the optimal solution. It involves an analysis of a subset of the possible options with the aim of excluding obviously unpromising cases and concentrating the search on the subset containing the best option.
+
+"When mathematical models of the processes that occur in an object become more complicated, the efficiency characteristics will not possess the property of monotonicity, that is why local search methods are insufficient to evaluate the best option," says Professor Roman Strongin.
+
+The global search procedures that are used in such problems (also called multi-extremal optimization problems) ensure that the search is targeted by taking into account the limited nature of the change in the object's characteristics when the changes in its parameters are limited. The resulting mathematical formulation can take the form of the Lipschitz condition, the uniform Hölder condition, etc.
+
+Multi-extremal optimization problems offer a narrow scope of analytical research opportunities, and they become computationally expensive when seeking numerical solutions, since computational costs grow exponentially with the increasing dimension of the problem.
+
+According to Konstantin Barkalov, Associate Professor of the UNN Department of Software and Supercomputer Technologies, the use of modern parallel computing systems expands the scope of global optimization methods. However, at the same time, it poses the challenge of effectively parallelizing the search process.
+
+"That is why the main efforts in this area should be concentrated on developing efficient parallel methods for numerically solving multi-extremal optimization problems and creating appropriate software for modern computing systems on the basis of such methods," says Barkalov.
+
+Usually, the methods of global optimization (both sequential and parallel) are intended to solve a single optimization problem. To solve a series of q problems, the problems in the series are solved sequentially, one after another. Therefore, the optimum estimation in the i-th problem in the series remains undefined until all preceding problems of the series (with the indices 1, 2, . . . , i ? 1) have been completely solved. In the case of limited computational resources, the optima estimates in the problems i + 1, . . . , q will not be obtained if the computation resources are exhausted while solving the i-th problem.
+
+Situations when a series of q problems have to be solved are not extraordinary. For example, a series of scalar problems arises when seeking a Pareto set in solving multi-objective optimization problems. In this case, the solution of a single scalar problem corresponds to one of the Pareto optimal points of a multi-objective problem. A series of optimization problems also arises when using dimension reduction methods to solve multidimensional optimization problems. Finally, a series of test problems can also be obtained with the help of a particular test problem generator.
+
+Scientists believe that when solving a set of problems, it is necessary to have initial estimates of solutions for all problems at once, so that at any time it is possible to evaluate the expediency of continuing the search. In this case, it is desirable to have the optimum estimates for all problems with the same accuracy.
+
+Running many independent processes in a parallel computing system, each of the processes solving one problem from a series, has a number of drawbacks. First, a workload imbalance between the processors will occur. If solving the i -th problem requires considerably fewer iterations of the method than solving the j -th problem, the processor tasked with handling the i -th problem would remain idle after completing the task. Second, the estimates of the optima will be obtained with different precision in different problems. Simpler problems will be solved with higher precision, whereas precision will be lower for more complex problems.
+
+The aim of the research performed at the Lobachevsky University was to develop a new method for solving a series of global optimization problems that would ensure: (i) a uniform loading of all the cores/processors employed; (ii) a uniform convergence to the solutions of all problems in the series.
+
+In the theoretical part of their paper, UNN scientists also proved the theorem on uniform convergence of the new algorithm. The experimental part of the work consisted in solving a series of several hundred test problems of different dimensions, and the results have convincingly demonstrated the presence of uniform convergence.
+
+Also UNN scientists consider computationally intensive global optimization problems, for solving of which the supercomputing systems with exaflops performance can be required. To overcome such computational complexity, the researchers propose generalized parallel computational schemes, which may involve numerous efficient parallel algorithms of global optimization. The proposed schemes include methods of multilevel decomposition of parallel computations to guarantee the computational efficiency of supercomputing systems with shared and distributed memory multiprocessors using thousands of processors to meet global optimization challenges.
+
+
+
+

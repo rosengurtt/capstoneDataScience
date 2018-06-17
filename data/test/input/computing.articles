@@ -1,0 +1,122 @@
+The purchase of GitHub (to be paid for in Microsoft shares) may look from the outside like just another piece of lunatic Silicon Valley economics but is in fact an important development in the slow, tectonic collision of the libertarian ideals of late 20th-century California with reality. GitHub and its users were once the sworn enemies of Microsoft and everything it represented. Bill Gates’s firm built software for profit and tried with every means at its power to ensure that no one used anything else. “A computer on every desk and in every home, running Microsoft software” was its aim, and it went a long way to succeeding in this extraordinary ambition. Most of us now use the computers in our pockets (known for historical reasons as “phones”) as much as those on our desks or laps, but it is still true that anything that won’t fit in a pocket will likely be running some kind of Microsoft software.
+
+GitHub, by contrast, grew out of the free software movement, which had similar global ambitions to Microsoft. The confused ideology behind it, a mixture of Rousseau with Ayn Rand, held both that humans are naturally good and that selfishness works out for the best. Thus, if only coders would write and give away the code they were interested in, the results would solve everyone else’s problems. This was also astonishingly successful. The internet now depends on free software.
+
+Possibly the most important of all the free software projects is the Linux operating system, which is built and maintained by programmers all over the world. Linus Torvalds, who started and still runs the Linux project, built a piece of software called Git to impose order on this potential anarchy. GitHub, in turn, is a place where people and companies can store copies of the files managed with Git and anyone in the world can find them easily; 25 million people now use it.
+
+But the belief that everyone coding would solve anyone’s problems has been shown up as completely ludicrous. If anything, computer literacy has declined over the generations as computers have got easier to use. In the heyday of Microsoft, almost everyone knew some tricks to make a computer do what it should, because almost everyone had to if they wanted to get anything done. But hardly anyone today has the first idea of programming a mobile phone. They just work. That’s progress, but not in the direction some idealists expected. Significant open source software is now produced almost entirely by giant commercial companies. It solves their problems but could be said to multiply ours. Huge cultural and political changes are presented as technological inevitabilities. They are not. The value of GitHub lies not in its software, which anyone could copy, but in the trust reposed in it by users. It is culture, not code, that’s worth those billions of dollars.
+
+
+
+I appreciate there not being a paywall: it is more democratic for the media to be available for all and not a commodity to be purchased by a few. I’m happy to make a contribution so others with less means still have access to information.
+Thomasine, Sweden
+If everyone who reads our reporting, who likes it, helps fund it, our future would be much more secure. For as little as £1, you can support the Guardian – and it only takes a minute. Thank you.
+Blockchain development already tops some lists of the hottest skills in the IT job market, and thousands of blockchain jobs in the U.S. are now up for grabs.
+
+But what kind of blockchain jobs are companies posting, and how good is the pay?
+
+About 23% of larger enterprises are now actively working on Blockchain apps and they will typically hire a project manager, one or two application designers, and two to four developers – all with prior blockchain experience, according to Janco Associates, a management consulting firm that conducts regular salary surveys.
+
+[ Further reading: Why finding blockchain talent is hard, and what to do about it ]
+Not surprisingly, salaries for blockchain positions are typically higher than in other areas of expertise since there are few qualified candidates, according to Janco CEO Victor Janulaitis.
+
+"It is not unusual for this group of professionals to form as a team and even go to a new position in a new organization as a unit. We have even found some 'contracting groups' that get hired as a unit for a blockchain application – especially if they are dealing with the same industry/application sets," Janulaitis said via email.
+
+How hot is the market in 2018? The job of developing blockchain distributed ledgers for businesses was recently ranked first among the top 20 fastest-growing job skills –  and postings for workers with those skills grew more than 200% last year.
+
+The most promising jobs include more than just developers and engineers, according to research by BusinessStudent.com — a site that reviews business schools and their courses.
+
+[ Learn Java from beginning concepts to advanced design patterns in this comprehensive 12-part course! ]
+Last month, BusinessStudent.com ranked the top future blockchain positions. And the list begins with blockchain intern, a seemingly low-level position that shouldn't be scoffed at.
+
+For programmers and developers who want to get their foot in the door in a blockchain technical career, getting that kind of internship with a startup or established company can easily be the ticket to success, according to Henry Steele, managing editor of BusinessStudent.com.
+
+Here's a look at the top jobs in the field at the moment.
+
+1. Entry level and internship positions
+These jobs can range in pay from $15 to $30 per hour, especially on the West Coast, Steele noted. The duties for interns can vary, but might include designing and developing blockchain distributed ledgers based on both proprietary blockchain and open-source platforms, such as Linux. Private or "permissioned" blockchains will be a key focus as most companies today are seeking to centrally manage distributed ledger technology (DLT) to create transactional networks for supply chain management and other business applications that are either internal or kept among business partners.
+
+Entry-level positions will also likely include developing blockchain pilots and proofs of concept, as most companies are only in the test phases for DLT solutions.
+
+Technical skills most coveted include: NodeJS, Go RESTful, APIs, React, Java, C++, Solidity, Truffle, CSS and HTML.
+
+2. Blockchain project managers
+Project managers will have to convert a company's needs in common English into technical language, and then from the blockchain developers' language back into regular English.
+
+"The project manager is usually the first person in an organization who is contacted when a company wants to bring blockchain in house and adapt it to their technology platforms," Steele wrote. "The blockchain project manager is tasked with planning and supervising the execution of the blockchain project."
+
+3. Blockchain developers.
+Developers will likely have the greatest career opportunities in the nascent blockchain field; financial services, governments and tech companies are all seeking to find ways  blockchain can better serve their clients.
+
+Technology skills needed as a developer include: Microsoft SQL Server, Visual Studio, .NET, MVC, AJAX, SQL, C, C++, C#, Javascript, Node.js, JQuery, SOAP, REST, FTP, HTML, XML, XSLT, XCOD, Neural-networks, Regression, Agile Scrum, MYSQL.
+
+4. Blockchain quality engineer
+This position is responsible for ensuring quality in all areas of blockchain development, such as automation frameworks and tests, manual testing and dashboards, "all of which works to support mobile, web and platform engineering."
+
+A quality engineer will need to research and advise on blockchain tools and develop quality assurance (QA) automated test standards, as well as define, write and implement test automation strategies for load performance tests. Applicants may also need an engineering management MBA degree, Steele said.
+
+5. Blockchain legal consultant or attorney
+This position is responsible for advising companies on how to structure and govern initial coin offerings, some of which are now coming under greater regulatory scrutiny. Attornies will also be tasked with developing legal partnerships and contracts as blockchain technology offers a business automation tool known as "smart contracts," which are self-executing based on previously agreed terms.
+
+"For example, a recent blockchain attorney job posting was searching for an attorney who could design legal partnerships that would connect the crypto ecosystem with the existing financial structure, and would support various merger-and-acquisition activities, such as negotiating and drafting legal agreements and performing due diligence," Steele wrote.
+
+6. Blockchain web designer
+Startups and even established companies often include the use of cryptocurrencies when launching blockchains, and there will be a greater need for websites to inform customers what a company is offering. A blockchain web designer will need to come up with original concepts and "mind blowing" user interfaces.
+
+A recent job posting for a User Interface (UI) designer, for example, wanted a professional who could create a UI design with Sketch, PS and Figma that would work in both mobile and Web applications.
+
+"It required [that] the applicant possess excellent communications skills and be able to interface effectively with content, operations, and marketing teams," Steele wrote.
+
+7. Blockchain engineer
+This job envisions understanding a company's tech needs and create the blockchain apps that address those needs.
+
+"You may work on implementing assets and accelerators; set up company infrastructure to use Ethereum and bitcoin, and may analyze code and organizer blockchain programming training for new employees," Steele wrote.
+
+Blockchain engineers should have a high level of skill in: Java, Hyperledger Fabric, Ripple, Solidity, Python, bitcoin, Oracle Identity, as well as access management solutions.
+
+Middle management and freelance jobs on the rise
+Large organizations are also planning to beef up their middle management as they focus on Big Data, blockchain and smartphone and tablet connectivity, according to Janco. Positions in the highest demand are associated with e-commerce, app  development security, big data, distributed/mobile system project management and quality control.
+
+Blockchain development is the hottest skill in the freelance job market today, growing more than 6000% since this time last year and putting it on pace to be the new "cloud" of the 21st Century, according to a report published by UpWork, a freelance job website. The average rate of pay for a blockchain freelancer is $65 an hour but rates can be as high as $250 per hour, according to UpWork.
+
+According to the latest numbers, there were 5,743 mostly full-time job openings for blockchain skills posted over a year's time span, according to job data analytics firm Burning Glass Technologies; that represented a growth of 320% growth over the previous year.
+
+blockchain job postings
+Burning Glass Technologies
+The skills gap translates into higher pay
+People with experience using specific blockchain iterations such as Solidity and Hyperledger Composer are in even higher demand – and that demand is increasing steadily, said Eric Piscini, a principal in the technology and banking practices at Deloitte Consulting LLP.
+
+"This is the number one thing I have in mind when I wake up in the morning: 'Where will I find more engineers to join the team,'" he said via email.
+
+In addition to established companies such as Deloitte, 2,359 blockchain startups have posted 1,749 jobs, according to AngelList, a website for investors and job-seekers looking for work at startups.
+
+Even as companies are posting a plethora of blockchain jobs, there is a dearth of talent to fill them.
+
+blockchain job skills
+UpWork
+According to Upwork, 53% of hiring managers surveyed cite access to skills as their biggest hiring challenge, and the majority (59%) are already utilizing flexible talent.
+
+In general, demand for workers with computer/mathematical skills exceeded supply by 17% this year, according to Burning Glass Technologies.
+
+A kind of sanity returned to Windows' status in May as the outgoing Windows 7 finally dropped some significant user share while Windows 10 padded its tally.
+
+According to U.S.-based analytics vendor Net Applications, Windows 7 sloughed off 1.8 percentage points last month, accounting for 41.8% of the user share of all personal computers and 47.3% of all those running Windows in May. (The second number is larger than the first because Windows powered 88.4% of all PCs, not 100%.)
+
+May's decline was the largest in nearly two years, excepting a late-2017 reset when Net Applications purged its data of criminal bot traffic.
+
+The change from past months was dramatic: In both March and April, Windows 7 gained ground, exactly the opposite of what Microsoft wants to see as it pushes customers to adopt Windows 10 and rid themselves of the older Windows 7.
+
+Meanwhile, Windows 10 increased its user share last month by nine-tenths of a percentage point to reach 34.7% of all PCs, and 39.3% of all Windows personal computers. That, too, was in contrast to the two months prior, during which Windows 10 backtracked by a total of eight-tenths of a point.
+
+The news for Microsoft may have been good in May, but long term, the outlook is still unsettled. Basing a forecast on Windows' past 12 months movement, Computerworld estimates that Windows 7 will account for nearly 35% of all active Windows editions in January 2020. At that time, Windows 10 should power 57% of all Windows laptop and desktop PCs.
+
+The latest numbers advanced the cross-over point for Windows 10 - when the newer OS will run a larger percentage of all Windows PCs than the older edition - from February 2019 (using April's numbers) to November 2018. The latest trend line for the two operating systems shows that at the end of this year, just 12 months from Windows 7's retirement, Windows 10 will run 45.6% of all Windows systems, while Windows 7 will power 43.2%.
+
+[ Got a spare hour? Take this online course and learn how to install and configure Windows 10 with the options you need. ]
+Elsewhere in Net Applications' data, the user share of Windows 8 and Windows 8.1 - long combined by Computerworld - stayed steady in May at 6.5% of all personal computers and 7.3% of those PCs running a Windows flavor. The 2012 (and for Windows 8.1, 2013) operating system accounted for about the same fraction of last month's Windows-based online activity as the ancient Windows XP, which still held a 5% user share.
+
+Within a year, Windows 8/8.1 should drop below 5%, another confirmation that the OS was a Microsoft flops. The dramatically-different Windows 8/8.1 never caught on, peaking in November 2014 at around 18%, or several percentage points lower than the top mark of 2007's much-more-derided Windows Vista.
+
+Also, in May, user share for Apple's macOS fell by two-tenths of a percentage point, to 9%, after climbing almost that same amount in April. Linux, whose loyalists have perennially touted the open-source OS as the cure to the world's ills, recorded a one-tenth percentage point boost in May, returning to the plus side of 2% after two months below that bar.
+
+Net Applications calculates user share by detecting the agent strings of the browsers people use to visit its clients' websites. It then tallies the visitor sessions - which are effectively visits to the site, with multiple sessions possible daily - rather than count only users, as it once did. Net Applications thus measures activity most of all, although differently than rival metrics sources which focus on page views.

@@ -1,0 +1,12 @@
+name: swiftkeywordprediction3
+title: SwiftKeyWordPrediction
+username:
+account: rosengurtt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 358488
+bundleId: 1433537
+url: https://rosengurtt.shinyapps.io/swiftkeywordprediction3/
+when: 1529219481.88085
+asMultiple: FALSE
+asStatic: FALSE
